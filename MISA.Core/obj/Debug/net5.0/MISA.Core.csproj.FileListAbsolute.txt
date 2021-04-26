@@ -1,0 +1,12 @@
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\bin\Debug\net5.0\MISA.Core.deps.json
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\bin\Debug\net5.0\MISA.Core.dll
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\bin\Debug\net5.0\ref\MISA.Core.dll
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\bin\Debug\net5.0\MISA.Core.pdb
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.csprojAssemblyReference.cache
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.dll
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\ref\MISA.Core.dll
+E:\CreateWebApiDemo\MISA.WEB\MISA.Core\obj\Debug\net5.0\MISA.Core.pdb
